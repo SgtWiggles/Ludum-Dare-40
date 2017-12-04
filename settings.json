@@ -1,0 +1,13 @@
+{
+    "__comment":"You can find the key bindings at:_https://www.sfml-dev.org/documentation/2.0/classsf_1_1Keyboard.php"
+    ,"key_bindings":{
+         "up"           :"Numpad8"
+       , "down"         :"Numpad2" 
+       , "left"         :"Numpad4" 
+       , "right"        :"Numpad6" 
+       , "up_left"      :"Numpad7" 
+       , "up_right"     :"Numpad9" 
+       , "down_left"    :"Numpad1" 
+       , "down_right"   :"Numpad3" 
+    }
+}
